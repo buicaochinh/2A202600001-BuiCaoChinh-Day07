@@ -1,0 +1,89 @@
+Xơ vữa động mạch: Cơ chế bệnh sinh, triệu chứng và điều trị | Vinmec
+
+Bài viết được tư vấn chuyên môn bởi Thạc sĩ, Bác sĩ Đỗ Thị Lan Anh – Khoa Nội Tim mạch, Bệnh viện Đa khoa Quốc tế Vinmec Smart City.
+
+Xơ vữa động mạch là quá trình tích tụ mảng bám gồm cholesterol, chất béo, canxi và các chất khác bên trong thành động mạch, khiến lòng mạch bị hẹp dần và mất đàn hồi. Đây là căn nguyên cơ bản của phần lớn các bệnh tim mạch nguy hiểm, bao gồm bệnh mạch vành, đột quỵ và bệnh mạch máu ngoại biên.
+
+1. Cơ chế hình thành xơ vữa động mạch
+
+Xơ vữa động mạch là một quá trình viêm mãn tính diễn ra âm thầm trong nhiều thập kỷ qua các giai đoạn sau:
+
+Giai đoạn 1 – Tổn thương nội mô:
+Các yếu tố như tăng huyết áp, cholesterol LDL cao, hút thuốc và đường huyết cao gây tổn thương lớp tế bào nội mạc lót bên trong thành mạch. Lớp nội mô bị tổn thương mất khả năng bảo vệ, tạo điều kiện cho cholesterol LDL thâm nhập vào thành mạch.
+
+Giai đoạn 2 – Hình thành mảng bám:
+Cholesterol LDL bị oxy hóa trong thành mạch kích hoạt phản ứng viêm, thu hút đại thực bào đến "ăn" cholesterol và trở thành "tế bào bọt". Các tế bào bọt chết đi, giải phóng thêm cholesterol và chất gây viêm, hình thành nhân lipid của mảng xơ vữa.
+
+Giai đoạn 3 – Phát triển và ổn định hóa mảng bám:
+Cơ trơn mạch máu tăng sinh, tạo lớp vỏ sợi bao phủ nhân lipid. Mảng xơ vữa ổn định (fibrous cap dày) ít nguy cơ vỡ hơn mảng xơ vữa không ổn định (fibrous cap mỏng).
+
+Giai đoạn 4 – Biến chứng của mảng xơ vữa:
+Mảng xơ vữa không ổn định bị vỡ, kích hoạt đông máu tại chỗ, hình thành cục máu đông gây tắc nghẽn cấp tính — đây là cơ chế của nhồi máu cơ tim và đột quỵ não.
+
+2. Các vị trí hay gặp xơ vữa
+
+- Động mạch vành: Gây bệnh mạch vành, nhồi máu cơ tim
+- Động mạch cảnh và não: Gây đột quỵ thiếu máu não
+- Động mạch chủ: Gây phình động mạch chủ
+- Động mạch thận: Gây tăng huyết áp thứ phát, suy thận
+- Động mạch chi dưới: Gây bệnh động mạch ngoại biên, đau cách hồi
+
+3. Triệu chứng xơ vữa động mạch
+
+Xơ vữa động mạch thường không có triệu chứng trong giai đoạn đầu. Triệu chứng xuất hiện khi lòng mạch hẹp đáng kể (> 50–70%) hoặc khi biến chứng xảy ra:
+
+Xơ vữa động mạch vành:
+- Đau thắt ngực khi gắng sức (ổn định) hoặc đau cả khi nghỉ (không ổn định)
+- Nhồi máu cơ tim: Đau ngực dữ dội, khó thở, vã mồ hôi
+
+Xơ vữa động mạch não và cảnh:
+- Cơn thiếu máu não thoáng qua (TIA): Liệt thoáng qua, nói khó, mù thoáng qua
+- Đột quỵ: Liệt nửa người, nói ngọng, mất thị lực
+
+Xơ vữa động mạch chi dưới:
+- Đau cách hồi: Đau bắp chân khi đi bộ, nghỉ thì hết
+- Giai đoạn nặng: Đau cả khi nghỉ, loét và hoại tử chi
+
+4. Chẩn đoán xơ vữa động mạch
+
+Xét nghiệm máu:
+- Lipid máu toàn phần: Cholesterol toàn phần, LDL, HDL, triglyceride
+- Đường huyết lúc đói và HbA1c
+- CRP siêu nhạy (hs-CRP): Dấu ấn viêm
+- Homocysteine máu
+
+Chẩn đoán hình ảnh:
+- Siêu âm Doppler mạch cảnh: Đo độ dày nội trung mạc (IMT), phát hiện mảng xơ vữa sớm
+- Chụp CT mạch vành (CTA): Đánh giá mức độ vôi hóa và hẹp mạch vành
+- Chỉ số ABI (Ankle-Brachial Index): Sàng lọc bệnh động mạch ngoại biên
+- Chụp mạch máu xâm lấn: Tiêu chuẩn vàng, thực hiện khi cần can thiệp
+
+5. Điều trị và phòng ngừa xơ vữa động mạch
+
+5.1. Kiểm soát các yếu tố nguy cơ
+
+Kiểm soát lipid máu:
+- Mục tiêu LDL theo nguy cơ tim mạch cá nhân (< 1.4 mmol/L với nguy cơ rất cao)
+- Statin: Atorvastatin, rosuvastatin — nhóm thuốc nền tảng, vừa hạ cholesterol vừa ổn định mảng xơ vữa
+- Ezetimibe: Kết hợp với statin khi cần
+- PCSK9 inhibitor: Evolocumab, alirocumab — khi statin chưa đạt mục tiêu
+
+Kiểm soát huyết áp:
+- Mục tiêu < 130/80 mmHg ở người nguy cơ cao
+
+Kiểm soát đường huyết:
+- HbA1c mục tiêu < 7% ở người tiểu đường
+- Nhóm thuốc SGLT2i và GLP-1 RA có lợi ích tim mạch rõ ràng
+
+5.2. Thay đổi lối sống
+
+- Chế độ ăn Địa Trung Hải: Nhiều rau, trái cây, ngũ cốc nguyên hạt, dầu ô liu, cá; ít thịt đỏ và sản phẩm chế biến sẵn
+- Tập thể dục aerobic ≥ 150 phút/tuần cường độ vừa hoặc ≥ 75 phút/tuần cường độ cao
+- Bỏ hút thuốc lá hoàn toàn
+- Duy trì cân nặng hợp lý (BMI 18.5–24.9 kg/m²)
+- Hạn chế rượu bia
+
+5.3. Kháng tiểu cầu
+
+- Aspirin liều thấp (75–100mg/ngày): Chỉ định ở người đã có bệnh tim mạch (phòng ngừa thứ phát)
+- Không khuyến cáo dùng rộng rãi cho phòng ngừa tiên phát do nguy cơ chảy máu

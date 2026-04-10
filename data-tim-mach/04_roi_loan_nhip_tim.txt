@@ -1,0 +1,89 @@
+Rối loạn nhịp tim: Nguyên nhân, phân loại và điều trị | Vinmec
+
+Bài viết được tư vấn chuyên môn bởi Thạc sĩ, Bác sĩ Trần Quốc Bảo – Trung tâm Tim mạch, Bệnh viện Đa khoa Quốc tế Vinmec Central Park.
+
+Rối loạn nhịp tim là tình trạng nhịp tim đập bất thường — quá nhanh, quá chậm hoặc không đều. Đây là một trong những nguyên nhân hàng đầu gây tử vong đột ngột, chiếm đến 80% các trường hợp đột tử do tim.
+
+1. Nhịp tim bình thường là bao nhiêu?
+
+Nhịp tim bình thường ở người trưởng thành khi nghỉ ngơi dao động từ 60 đến 100 nhịp/phút. Nhịp tim phát sinh từ nút xoang — bộ tạo nhịp tự nhiên của tim nằm ở tâm nhĩ phải, sau đó được dẫn truyền qua hệ thống dẫn truyền điện học đến toàn bộ cơ tim.
+
+Khi hệ thống này bị rối loạn, nhịp tim có thể trở nên bất thường, gây ra các triệu chứng từ nhẹ đến đe dọa tính mạng.
+
+2. Phân loại rối loạn nhịp tim
+
+2.1. Theo tần số tim
+
+Nhịp tim nhanh (tachycardia): Trên 100 nhịp/phút khi nghỉ:
+- Rung nhĩ: Loại rối loạn nhịp tim phổ biến nhất, tâm nhĩ co bóp hỗn loạn với tần số 350–600 lần/phút
+- Cuồng nhĩ: Tâm nhĩ co bóp đều đặn nhưng rất nhanh 250–350 lần/phút
+- Nhịp nhanh thất: Nguy hiểm, có thể tiến triển thành rung thất
+- Rung thất: Cấp cứu y tế, tim không bơm máu hiệu quả, ngừng tuần hoàn
+
+Nhịp tim chậm (bradycardia): Dưới 60 nhịp/phút:
+- Hội chứng nút xoang bệnh lý
+- Block nhĩ thất các cấp độ
+- Block nhánh bó His
+
+2.2. Theo vị trí phát sinh
+
+- Rối loạn nhịp trên thất: Phát sinh từ tâm nhĩ hoặc nút nhĩ thất
+- Rối loạn nhịp thất: Phát sinh từ tâm thất, thường nguy hiểm hơn
+
+3. Triệu chứng của rối loạn nhịp tim
+
+Triệu chứng rất đa dạng tùy loại và mức độ:
+- Hồi hộp, đánh trống ngực, cảm giác tim "nhảy" hoặc "bỏ nhịp"
+- Chóng mặt, choáng váng
+- Ngất hoặc gần ngất
+- Khó thở
+- Đau hoặc tức ngực
+- Mệt mỏi bất thường
+- Trong trường hợp nặng: Ngừng tim đột ngột
+
+Một số bệnh nhân rối loạn nhịp tim hoàn toàn không có triệu chứng và chỉ được phát hiện tình cờ qua điện tâm đồ.
+
+4. Nguyên nhân gây rối loạn nhịp tim
+
+Nguyên nhân tim mạch:
+- Bệnh mạch vành, nhồi máu cơ tim
+- Suy tim
+- Bệnh van tim
+- Bệnh cơ tim phì đại hoặc giãn
+- Viêm cơ tim hoặc viêm màng ngoài tim
+- Dị tật tim bẩm sinh
+
+Nguyên nhân không phải tim mạch:
+- Rối loạn điện giải: Hạ kali máu, hạ magie máu
+- Cường giáp hoặc suy giáp
+- Ngưng thở khi ngủ
+- Một số thuốc: thuốc chống loạn nhịp, digoxin, thuốc kháng histamine
+- Chất kích thích: caffeine, nicotine, alcohol, cocaine
+- Căng thẳng, lo âu
+
+5. Chẩn đoán rối loạn nhịp tim
+
+- Điện tâm đồ 12 chuyển đạo: Ghi lại hoạt động điện học của tim tại thời điểm khám
+- Holter điện tim 24–48 giờ: Ghi liên tục để phát hiện rối loạn nhịp không thường xuyên
+- Monitor sự kiện (Event monitor): Ghi lại khi bệnh nhân có triệu chứng
+- Nghiệm pháp gắng sức: Phát hiện rối loạn nhịp liên quan đến gắng sức
+- Siêu âm tim: Đánh giá cấu trúc và chức năng tim
+- Thăm dò điện sinh lý (EPS): Tiêu chuẩn vàng để xác định cơ chế và vị trí rối loạn nhịp
+
+6. Điều trị rối loạn nhịp tim
+
+6.1. Điều trị nội khoa
+
+Thuốc chống loạn nhịp:
+- Nhóm I (chẹn kênh natri): lidocaine, flecainide, propafenone
+- Nhóm II (chẹn beta): metoprolol, bisoprolol
+- Nhóm III (chẹn kênh kali): amiodarone, sotalol
+- Nhóm IV (chẹn kênh canxi): verapamil, diltiazem
+- Thuốc chống đông máu: Bắt buộc trong rung nhĩ để phòng ngừa đột quỵ (warfarin, rivaroxaban, apixaban)
+
+6.2. Can thiệp không phẫu thuật
+
+- Sốc điện chuyển nhịp (cardioversion): Khôi phục nhịp xoang trong rung nhĩ hoặc cuồng nhĩ
+- Triệt đốt qua catheter (ablation): Phá hủy ổ tạo nhịp bất thường bằng năng lượng sóng radio hoặc lạnh
+- Cấy máy tạo nhịp (pacemaker): Điều trị nhịp tim chậm, block nhĩ thất
+- Cấy máy khử rung tim tự động (ICD): Phòng ngừa đột tử do nhịp nhanh thất hoặc rung thất

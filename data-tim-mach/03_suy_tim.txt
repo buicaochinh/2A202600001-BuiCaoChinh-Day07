@@ -1,0 +1,104 @@
+Suy tim: Nguyên nhân, triệu chứng và phương pháp điều trị | Vinmec
+
+Bài viết được tư vấn chuyên môn bởi Tiến sĩ, Bác sĩ Phạm Văn Minh – Trung tâm Tim mạch, Bệnh viện Đa khoa Quốc tế Vinmec Hà Nội.
+
+Suy tim là tình trạng tim không đủ khả năng bơm máu đáp ứng nhu cầu của cơ thể. Đây là giai đoạn cuối của nhiều bệnh lý tim mạch và là nguyên nhân hàng đầu gây nhập viện ở người trên 65 tuổi.
+
+1. Suy tim là gì?
+
+Suy tim không có nghĩa là tim ngừng đập mà là tim hoạt động kém hiệu quả, không cung cấp đủ máu và oxy cho các cơ quan trong cơ thể. Để bù đắp, tim phải làm việc nhiều hơn, dần dần dẫn đến phì đại và suy yếu thêm.
+
+Suy tim được phân loại theo nhiều cách:
+
+Theo phân suất tống máu (EF):
+- Suy tim EF giảm (HFrEF): EF < 40%, tim co bóp yếu
+- Suy tim EF bảo tồn (HFpEF): EF ≥ 50%, tim co bóp bình thường nhưng tâm trương bất thường
+- Suy tim EF trung gian (HFmrEF): EF 40–49%
+
+Theo vị trí tổn thương:
+- Suy tim trái: Ứ huyết phổi, khó thở
+- Suy tim phải: Ứ huyết ngoại biên, phù chân
+- Suy tim toàn bộ: Kết hợp cả hai
+
+Theo mức độ (phân loại NYHA):
+- Độ I: Không hạn chế hoạt động thể lực bình thường
+- Độ II: Hạn chế nhẹ, khó thở khi gắng sức nhiều
+- Độ III: Hạn chế nhiều, khó thở khi hoạt động nhẹ
+- Độ IV: Khó thở ngay cả khi nghỉ ngơi
+
+2. Triệu chứng của suy tim
+
+Triệu chứng suy tim trái:
+- Khó thở khi gắng sức, sau đó khó thở ngay cả khi nằm (phải kê cao gối)
+- Khó thở về đêm, thức giấc vì khó thở
+- Ho khan về đêm hoặc khạc ra đờm bọt hồng (trong trường hợp nặng)
+- Mệt mỏi, giảm khả năng gắng sức
+
+Triệu chứng suy tim phải:
+- Phù chân và mắt cá chân, nặng hơn vào buổi chiều
+- Đau hoặc tức vùng hạ sườn phải (gan to)
+- Chướng bụng, đầy hơi
+- Tĩnh mạch cổ nổi
+
+Triệu chứng chung:
+- Mệt mỏi toàn thân, giảm sức chịu đựng
+- Tăng cân nhanh do tích nước (> 2kg/tuần cần cảnh báo)
+- Giảm lượng nước tiểu
+- Lú lẫn, giảm tập trung (do giảm tưới máu não)
+
+3. Nguyên nhân gây suy tim
+
+Suy tim là hậu quả của nhiều bệnh lý tim mạch và không phải tim mạch:
+
+Nguyên nhân tim mạch:
+- Bệnh mạch vành và nhồi máu cơ tim (nguyên nhân phổ biến nhất)
+- Tăng huyết áp không kiểm soát
+- Bệnh van tim: hở van, hẹp van
+- Rối loạn nhịp tim: rung nhĩ, nhịp tim nhanh kéo dài
+- Bệnh cơ tim: bệnh cơ tim giãn, bệnh cơ tim phì đại
+- Viêm cơ tim
+
+Nguyên nhân không phải tim mạch:
+- Bệnh tuyến giáp (cường giáp, suy giáp)
+- Thiếu máu nặng
+- Bệnh phổi mãn tính
+- Tiểu đường không kiểm soát
+- Một số thuốc hóa trị liệu
+
+4. Chẩn đoán suy tim
+
+Bác sĩ sẽ dựa vào:
+- Triệu chứng lâm sàng và khám thực thể
+- Điện tâm đồ (ECG)
+- X-quang ngực: Tim to, ứ huyết phổi
+- Siêu âm tim Doppler: Đánh giá phân suất tống máu, chức năng van tim
+- Xét nghiệm máu: BNP/NT-proBNP (dấu ấn sinh học đặc hiệu của suy tim), chức năng thận, điện giải
+- Chụp cộng hưởng từ tim (MRI tim) trong một số trường hợp
+
+5. Điều trị suy tim
+
+5.1. Thay đổi lối sống
+
+- Hạn chế muối: Không quá 2g natri/ngày (khoảng 5g muối)
+- Hạn chế dịch: 1.5–2 lít/ngày nếu có tình trạng ứ dịch
+- Tự theo dõi cân nặng hàng ngày; tái khám ngay nếu tăng > 2kg trong 3 ngày
+- Tập thể dục nhẹ nhàng và đều đặn theo hướng dẫn bác sĩ
+- Bỏ hút thuốc lá, hạn chế rượu bia
+- Tiêm phòng cúm và phế cầu hàng năm
+
+5.2. Điều trị thuốc
+
+Các nhóm thuốc nền tảng trong điều trị suy tim EF giảm:
+- Thuốc ức chế men chuyển (ACEi) hoặc ức chế thụ thể angiotensin (ARB)
+- Thuốc chẹn beta: bisoprolol, carvedilol, metoprolol succinate
+- Thuốc kháng aldosteron: spironolactone, eplerenone
+- Thuốc ức chế SGLT2: empagliflozin, dapagliflozin (nhóm mới, hiệu quả cao)
+- Thuốc lợi tiểu: kiểm soát tình trạng ứ dịch
+
+5.3. Điều trị can thiệp và phẫu thuật
+
+- Cấy máy tái đồng bộ tim (CRT): Khi EF ≤ 35%, QRS rộng
+- Cấy máy khử rung tim (ICD): Phòng ngừa đột tử
+- Phẫu thuật sửa/thay van tim
+- Tái tưới máu mạch vành (nếu nguyên nhân là bệnh mạch vành)
+- Ghép tim: Trường hợp suy tim giai đoạn cuối, không đáp ứng điều trị
